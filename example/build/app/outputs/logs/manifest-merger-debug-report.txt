@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:12:5-53:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\e0285b78ab8c47051f60414063cc6012\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\e0285b78ab8c47051f60414063cc6012\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\5e7c3a587099ff57f2517223322e470c\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\5e7c3a587099ff57f2517223322e470c\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\e0285b78ab8c47051f60414063cc6012\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+MERGED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+MERGED from [:ringtone_set] C:\Users\kta\Downloads\ringtone_set-0.0.3\example\build\ringtone_set\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\kta\Downloads\ringtone_set-0.0.3\example\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\a62795434b426f58234be571c2b6ce6c\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\f7e6612e68c8c1c9c5056ac04b9883ea\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\6e9e79d6ccfa94d60cd05db8fedbff80\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\25d461cf53d1e1d4a78f6f0cf073abce\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\160e08c802e11d4fd129f7802f2d4790\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\a3ed0e81a5357cc146bf2908b563b493\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\e0285b78ab8c47051f60414063cc6012\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\0624037010aee785cfc4cb227507ab92\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\865385a85c5047a382aa6e8358cca4fb\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\b87afebff1bbdc1d78870b44a113d168\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\4a59320ec403c55bea76f22d86bf4e52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\ae856f9898dfc848f28e7c0a0fc16489\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\235f3039b008291ffdd0a582f792a27a\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\5e7c3a587099ff57f2517223322e470c\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\f7ea75605b0a6a2209df443e0ad59707\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\d87360e3f1e1c9b81799adeae8589003\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:1-54:12
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:9:5-10:47
+	tools:ignore
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml:11:22-78
+uses-sdk
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:ringtone_set] C:\Users\kta\Downloads\ringtone_set-0.0.3\example\build\ringtone_set\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:ringtone_set] C:\Users\kta\Downloads\ringtone_set-0.0.3\example\build\ringtone_set\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\kta\Downloads\ringtone_set-0.0.3\example\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\kta\Downloads\ringtone_set-0.0.3\example\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\a62795434b426f58234be571c2b6ce6c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\a62795434b426f58234be571c2b6ce6c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\f7e6612e68c8c1c9c5056ac04b9883ea\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\f7e6612e68c8c1c9c5056ac04b9883ea\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\6e9e79d6ccfa94d60cd05db8fedbff80\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\6e9e79d6ccfa94d60cd05db8fedbff80\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\25d461cf53d1e1d4a78f6f0cf073abce\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\25d461cf53d1e1d4a78f6f0cf073abce\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\160e08c802e11d4fd129f7802f2d4790\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\160e08c802e11d4fd129f7802f2d4790\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\a3ed0e81a5357cc146bf2908b563b493\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\a3ed0e81a5357cc146bf2908b563b493\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\e0285b78ab8c47051f60414063cc6012\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\e0285b78ab8c47051f60414063cc6012\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\0624037010aee785cfc4cb227507ab92\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\0624037010aee785cfc4cb227507ab92\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\865385a85c5047a382aa6e8358cca4fb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\865385a85c5047a382aa6e8358cca4fb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\b87afebff1bbdc1d78870b44a113d168\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\b87afebff1bbdc1d78870b44a113d168\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\4a59320ec403c55bea76f22d86bf4e52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\4a59320ec403c55bea76f22d86bf4e52\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\ae856f9898dfc848f28e7c0a0fc16489\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\ae856f9898dfc848f28e7c0a0fc16489\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\235f3039b008291ffdd0a582f792a27a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\235f3039b008291ffdd0a582f792a27a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\5e7c3a587099ff57f2517223322e470c\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\5e7c3a587099ff57f2517223322e470c\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\f7ea75605b0a6a2209df443e0ad59707\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\f7ea75605b0a6a2209df443e0ad59707\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\d87360e3f1e1c9b81799adeae8589003\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\d87360e3f1e1c9b81799adeae8589003\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\kta\Downloads\ringtone_set-0.0.3\example\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kta\.gradle\caches\transforms-2\files-2.1\462464474324dcf96ba6a044f42c08f8\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

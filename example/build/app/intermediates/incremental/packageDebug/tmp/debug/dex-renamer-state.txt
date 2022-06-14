@@ -1,0 +1,4 @@
+#Sun Jun 12 14:14:25 MMT 2022
+base.0=C\:\\Users\\kta\\Downloads\\ringtone_set-0.0.3\\example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

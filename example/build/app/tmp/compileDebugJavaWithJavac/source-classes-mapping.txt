@@ -1,0 +1,6 @@
+acr/rt/ringtone_set_example/MainActivity.java
+ acr.rt.ringtone_set_example.MainActivity
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+acr/rt/ringtone_set_example/BuildConfig.java
+ acr.rt.ringtone_set_example.BuildConfig
